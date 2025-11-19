@@ -1,0 +1,22 @@
+[
+ {
+ "name": "John Doe",
+ "company": "Example Corp",
+ "title": "Marketing Manager",
+ "email": "john.doe@example.com",
+ "phone": "+1 555 123 4567",
+ "website": "https://example.com",
+ "linkedin": "https://linkedin.com/in/johndoe",
+ "location": "New York, USA"
+ },
+ {
+ "name": "Jane Smith",
+ "company": "DataSoft",
+ "title": "CTO",
+ "email": "jane.smith@datasoft.io",
+ "phone": "(202) 555-9911",
+ "website": "https://datasoft.io",
+ "linkedin": "https://linkedin.com/in/janesmith",
+ "location": "San Francisco, USA"
+ }
+]
