@@ -1,0 +1,9 @@
+{
+ "verification": {
+ "enable_email_validation": true,
+ "enable_phone_formatting": true
+ },
+ "export": {
+ "excel_output_path": "output.xlsx"
+ }
+}
